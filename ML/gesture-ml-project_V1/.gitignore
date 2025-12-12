@@ -1,5 +1,0 @@
-logs/
-outputs/
-*.tflite
-*.onnx
-*.h5
